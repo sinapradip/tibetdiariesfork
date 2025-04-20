@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/categories/</loc>
+  </url><url>
+    <loc>https://example.org/narrative/</loc>
+  </url><url>
+    <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/maps/tpc/dali_litang/</loc>
+  </url><url>
+    <loc>https://example.org/maps/</loc>
+  </url><url>
+    <loc>https://example.org/maps/road/</loc>
+  </url><url>
+    <loc>https://example.org/maps/tpc/</loc>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+  </url><url>
+    <loc>https://example.org/maps/dorje/</loc>
+  </url><url>
+    <loc>https://example.org/maps/viet/</loc>
+  </url>
+</urlset>
