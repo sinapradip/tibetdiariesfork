@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Road Atlas on Tibet Diaries</title>
-    <link>https://example.org/maps/road/</link>
+    <link>http://localhost:1313/maps/road/</link>
     <description>Recent content in Road Atlas on Tibet Diaries</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/maps/road/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/maps/road/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
