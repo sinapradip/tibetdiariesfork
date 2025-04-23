@@ -1,7 +1,7 @@
 baseURL = 'https://sinapradip.github.io/tibetdiariesfork/'
 languageCode = 'en-us'
 title = 'Tibet Diaries'
-theme = 'ananke'
+theme = 'PaperMod'
 
 [caches]
   [caches.images]

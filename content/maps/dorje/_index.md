@@ -20,4 +20,4 @@ title = 'Tibet Handbook'
 New Link testing
 Does this images linking works?
 
-[Zhongdian (Gyeltang)](/tibetdiariesfork/images/maps/dorje/zhongdian.jpg)
+[Zhongdian (Gyeltang)](/tibetdiariesfork/public/images/maps/dorje/zhongdian.jpg)
