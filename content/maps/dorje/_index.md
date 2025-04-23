@@ -17,4 +17,6 @@ title = 'Tibet Handbook'
 
 [Amnye Maqen](/images/maps/dorje/maqen.jpg)
 
-[Zhongdian (Gyeltang)](/images/maps/dorje/zhongdian.jpg)
+Does this images linking works?
+
+[Zhongdian (Gyeltang)](../../../public\images\maps\dorje\zhongdian.jpg)
