@@ -9,3 +9,6 @@ theme = 'ananke'
 
 [params]
 email = "tibetdiaries@gmail.com"
+
+relativeURLs = true
+canonifyURLs = true

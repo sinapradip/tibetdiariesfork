@@ -3,9 +3,9 @@ draft = false
 title = 'Tibet Handbook'
 +++
 
-[Zhongdian (Gyeltang)](/images/maps/dorje/zhongdian.jpg)
+[Zhongdian (Gyeltang)](public/images/maps/dorje/zhongdian.jpg)
 
-[Litang](/images/maps/dorje/litang.jpg)
+[Litang](public/images/maps/dorje/litang.jpg)
 
 [Yalong River](/images/maps/dorje/yalong.jpg)
 
@@ -20,4 +20,4 @@ title = 'Tibet Handbook'
 New Link testing
 Does this images linking works?
 
-[Zhongdian (Gyeltang)](../../../public/images/maps/dorje/zhongdian.jpg)
+[Zhongdian (Gyeltang)](/tibetdiariesfork/public/images/maps/dorje/zhongdian.jpg)
