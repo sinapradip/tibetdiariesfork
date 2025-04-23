@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/sinapradip/tibetdiariesfork'
+baseURL = 'https://sinapradip.github.io/tibetdiariesfork/'
 languageCode = 'en-us'
 title = 'Tibet Diaries'
 theme = 'ananke'
