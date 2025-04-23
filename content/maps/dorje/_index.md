@@ -3,16 +3,17 @@ draft = false
 title = 'Tibet Handbook'
 +++
 
-[Zhongdian (Gyeltang)](/images/maps/dorje/zhongdian.jpg)
+[Zhongdian (Gyeltang)](static/images/maps/dorje/zhongdian.jpg)
+[Zhongdian (Gyeltang)](../../../static/images/maps/dorje/zhongdian.jpg)
 
-[Litang](/images/maps/dorje/litang.jpg)
+[Litang](../../../static/images/maps/dorje/litang.jpg)
 
-[Yalong River](/images/maps/dorje/yalong.jpg)
+[Yalong River](../../../static/images/maps/dorje/yalong.jpg)
 
-[Kandze](/images/maps/dorje/kandze.jpg)
+[Kandze](../../../static/images/maps/dorje/kandze.jpg)
 
-[Denkhok](/images/maps/dorje/denkhok.jpg)
+[Denkhok](../../../static/images/maps/dorje/denkhok.jpg)
 
-[Yushu (Jyekundo)](/images/maps/dorje/yushu.jpg)
+[Yushu (Jyekundo)](../../../static/images/maps/dorje/yushu.jpg)
 
-[Amnye Maqen](/images/maps/dorje/maqen.jpg)
+[Amnye Maqen](../../../static/images/maps/dorje/maqen.jpg)
