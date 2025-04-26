@@ -5,4 +5,4 @@ title = 'About'
 
 [Contact us](mailto:tibetdiaries@gmail.com)
 
-[About us](../pdf/about.pdf)
+[About us](../pdf/dummy.pdf)
